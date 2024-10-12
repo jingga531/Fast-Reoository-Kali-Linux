@@ -1,4 +1,4 @@
-# Fast-Reoository-Kali-Linux
+# Fast-Repository-Kali-Linux
 
 This is a Bash script to fix the Kali Linux repository, add a Kali repository to non-Kali distros, and perform various repository management tasks.
 
@@ -19,11 +19,11 @@ This is a Bash script to fix the Kali Linux repository, add a Kali repository to
 
 1. Clone the repository to your local machine:
 
-   ```git clone https://github.com/jingga531/Fast-Reoository-Kali-Linux.git```
+   ```git clone https://github.com/jingga531/Fast-Repository-Kali-Linux.git```
 
 2. Open the Directory
 
-   ```cd Fast-Reoository-Kali-Linux```
+   ```cd Fast-Repository-Kali-Linux```
 
 3. Run the bash script
 
